@@ -34,7 +34,7 @@ if (a == 0 && b != 0) {
         printf("x1 = %f + %fi, x2 = %f - %fi", realPart, imaginaryPart, realPart, imaginaryPart);
         
 //testt
-
+//just 
     }
 }
     return 0;
