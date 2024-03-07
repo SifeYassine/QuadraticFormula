@@ -32,7 +32,9 @@ if (a == 0 && b != 0) {
         float realPart = -b / (2 * a);
         float imaginaryPart = sqrt(-D) / (2 * a);
         printf("x1 = %f + %fi, x2 = %f - %fi", realPart, imaginaryPart, realPart, imaginaryPart);
-
+        
+//testt
+//just 
     }
 }
     return 0;
